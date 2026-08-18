@@ -40,9 +40,6 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pierox-afk/pierox-afk/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pierox-afk/pierox-afk/output/dist/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/pierox-afk/pierox-afk/output/dist/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=pierox-afk&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierox-afk&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
 </p>
