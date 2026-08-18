@@ -38,7 +38,6 @@
 *   **[yasuo.gg](https://www.yasuo.gg/)**: Analytics and match auditing platform for League of Legends and Teamfight Tactics players.
 
 ### 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierox-afk)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierox-afk)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pierox-afk/pierox-afk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
