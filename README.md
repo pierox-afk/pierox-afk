@@ -37,9 +37,4 @@
 *   **[patica.app](https://www.patica.app/)**: A full-stack web application built from the ground up utilizing Next.js and Supabase.
 *   **[yasuo.gg](https://www.yasuo.gg/)**: Analytics and match auditing platform for League of Legends and Teamfight Tactics players.
 
-### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pierox-afk&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierox-afk&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
-</p>
