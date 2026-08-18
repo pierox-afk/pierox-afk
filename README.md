@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  I'm a Software Engineer based in Venezuela, currently building scalable solutions at <b>Finity Tech</b>. 
+  I'm a Software Engineer based in Argentina, currently building scalable solutions at <b>Finity Tech</b>. 
   With a strong background developing robust applications across the <b>Fintech</b> and <b>EdTech</b> sectors, I love bridging the gap between solid backend architectures and engaging user interfaces.
 </p>
 
@@ -38,6 +38,11 @@
 *   **[yasuo.gg](https://www.yasuo.gg/)**: Analytics and match auditing platform for League of Legends and Teamfight Tactics players.
 
 ### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pierox-afk/pierox-afk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pierox-afk/pierox-afk/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pierox-afk/pierox-afk/output/dist/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/pierox-afk/pierox-afk/output/dist/github-contribution-grid-snake.svg">
+  </picture>
 </p>
