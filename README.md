@@ -39,5 +39,6 @@
 
 ### 📊 GitHub Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierox-afk&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/pierox-afk)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierox-afk&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/pierox-afk)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierox-afk)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierox-afk)
